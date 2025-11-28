@@ -36,6 +36,23 @@ The project includes three major components:
 • Produces a clean, user-friendly output
 
 
+What I Learned:
+
+• How to load and explore datasets using Pandas.
+
+• Handling missing values and duplicate data.
+
+• Converting and working with date columns in datasets.
+
+• Basic data analysis: counting types, top genres, content per year.
+
+• Visualizing data using Matplotlib: bar charts and pie charts.
+
+• Creating a simple content recommendation system based on genre.
+
+• Managing movie reviews and spoilers with conditional display.
+
+• Organizing a project workflow for a real-world dataset.
 
 
 Tech Stack Used
@@ -51,6 +68,7 @@ Tech Stack Used
 • NLP libraries (TextBlob / NLTK based on the implementation)
 
 • Jupyter Notebook for development
+
 
 
 This project demonstrates skills in data preprocessing, analysis, machine learning, NLP, and Python scripting.
