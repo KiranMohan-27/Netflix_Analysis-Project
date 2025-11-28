@@ -3,7 +3,7 @@
 
 This project focuses on performing a complete end-to-end analysis of Netflix titles, building a movie recommendation system, and generating spoiler-protected reviews using Natural Language Processing techniques.
 
-The project includes three major components:
+🔎The project includes three major components:
 
 1. Netflix Data Analysis
 
@@ -36,7 +36,7 @@ The project includes three major components:
 • Produces a clean, user-friendly output
 
 
-What I Learned:
+📈What I Learned:
 
 • How to load and explore datasets using Pandas.
 
@@ -55,7 +55,7 @@ What I Learned:
 • Organizing a project workflow for a real-world dataset.
 
 
-Tech Stack Used
+💡Tech Stack Used:
 
 • Python
 
