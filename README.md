@@ -7,50 +7,50 @@ The project includes three major components:
 
 1. Netflix Data Analysis
 
-•Data cleaning and preprocessing
+• Data cleaning and preprocessing
 
-•Exploratory data analysis
+• Exploratory data analysis
 
-•Insights on genres, ratings, cast, and trends
+• Insights on genres, ratings, cast, and trends
 
-•Visualizations for better understanding of the dataset
+• Visualizations for better understanding of the dataset
 
 
 
 2. Movie Recommendation System
 
-•Uses TF-IDF vectorization and cosine similarity
+• Uses TF-IDF vectorization and cosine similarity
 
-•Provides content-based recommendations
+• Provides content-based recommendations
 
-•Suggests similar movies based on user input
+• Suggests similar movies based on user input
 
 
 
 3. Spoiler-Protected Review Generation
 
-•Automatically generates short reviews
+• Automatically generates short reviews
 
-•Detects and hides spoilers in the text
+• Detects and hides spoilers in the text
 
-•Produces a clean, user-friendly output
+• Produces a clean, user-friendly output
 
 
 
 
 Tech Stack Used
 
-•Python
+• Python
 
-•Pandas, NumPy
+• Pandas, NumPy
 
-•Matplotlib (for charts)
+• Matplotlib (for charts)
 
-•Scikit-learn (for TF-IDF and similarity)
+• Scikit-learn (for TF-IDF and similarity)
 
-•NLP libraries (TextBlob / NLTK based on the implementation)
+• NLP libraries (TextBlob / NLTK based on the implementation)
 
-•Jupyter Notebook for development
+• Jupyter Notebook for development
 
 
 This project demonstrates skills in data preprocessing, analysis, machine learning, NLP, and Python scripting.
