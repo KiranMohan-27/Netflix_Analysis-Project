@@ -52,7 +52,9 @@ B.Sc. Computer Science with Data Analytics
 Aspiring Data Analyst
 
 📧 Email: kiran001430c@gmail.com
+
 🔗 LinkedIn: https://www.linkedin.com/in/kiran-mohan-s-b7baa031a\
+
 🐙 GitHub: https://github.com/KiranMohan-27
 
 
