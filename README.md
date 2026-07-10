@@ -1,75 +1,52 @@
 # Netflix_Analysis-Project
               Netflix Movie Intelligence System - Analysis • Recommendation • Spoiler-Protected Reviews
 
-This project focuses on performing a complete end-to-end analysis of Netflix titles, building a movie recommendation system, and generating spoiler-protected reviews using Natural Language Processing techniques.
+📌 Project Overview
 
-🔎The project includes three major components:
+This project focuses on exploring Netflix data using Python and performing Exploratory Data Analysis (EDA). It also recommends similar movies using TF-IDF and Cosine Similarity and separates spoiler and non-spoiler reviews for a better user experience.
 
-1. Netflix Data Analysis
+✨ Features
 
-• Data cleaning and preprocessing
+- 📊 Data Cleaning & Preprocessing
+- 📈 Exploratory Data Analysis (EDA)
+- 🎬 Content-Based Movie Recommendation System
+- 📝 Spoiler-Protected Reviews
+- 📉 Data Visualization using Bar Chart & Pie Chart
 
-• Exploratory data analysis
+📂 Dataset
 
-• Insights on genres, ratings, cast, and trends
+- Dataset: "netflix_titles.csv" (Kaggle Public Dataset)
 
-• Visualizations for better understanding of the dataset
+🛠️ Technologies Used
 
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Scikit-learn
+- Jupyter Notebook
 
+📈 Project Outputs
 
-2. Movie Recommendation System
+- Movies vs TV Shows Analysis
+- Top Genres
+- Content Released Per Year
+- Movie Recommendation System
+- Spoiler & Non-Spoiler Reviews
+- Bar Chart and Pie Chart Visualizations
 
-• Uses TF-IDF vectorization and cosine similarity
+📚 What I Learned
 
-• Provides content-based recommendations
+- Data cleaning and preprocessing
+- Exploratory Data Analysis (EDA)
+- Data visualization with Matplotlib
+- Building a basic recommendation system using TF-IDF and Cosine Similarity
+- Organizing a complete Python project for GitHub
 
-• Suggests similar movies based on user input
+👨‍💻 Author
 
+Kiran Mohan S
 
+B.Sc. Computer Science with Data Analytics
 
-3. Spoiler-Protected Review Generation
-
-• Automatically generates short reviews
-
-• Detects and hides spoilers in the text
-
-• Produces a clean, user-friendly output
-
-
-📈What I Learned:
-
-• How to load and explore datasets using Pandas.
-
-• Handling missing values and duplicate data.
-
-• Converting and working with date columns in datasets.
-
-• Basic data analysis: counting types, top genres, content per year.
-
-• Visualizing data using Matplotlib: bar charts and pie charts.
-
-• Creating a simple content recommendation system based on genre.
-
-• Managing movie reviews and spoilers with conditional display.
-
-• Organizing a project workflow for a real-world dataset.
-
-
-💡Tech Stack Used:
-
-• Python
-
-• Pandas, NumPy
-
-• Matplotlib (for charts)
-
-• Scikit-learn (for TF-IDF and similarity)
-
-• NLP libraries (TextBlob / NLTK based on the implementation)
-
-• Jupyter Notebook for development
-
-
-
-This project demonstrates skills in data preprocessing, analysis, machine learning, NLP, and Python scripting.
-Ideal for showcasing data science and ML capabilities in a portfolio or for internship applications.
+Aspiring Data Analyst
